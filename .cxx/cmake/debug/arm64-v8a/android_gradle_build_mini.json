@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "E:\\Android\\Project\\SuperJiPaiQi\\opencv\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Android\\Project\\SuperJiPaiQi\\opencv\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "libopencv_java4-Debug-arm64-v8a": {
+      "artifactName": "libopencv_java4",
+      "abi": "arm64-v8a",
+      "output": "E:\\Android\\Project\\SuperJiPaiQi\\opencv\\src\\main\\jniLibs\\libs\\arm64-v8a\\libopencv_java4.so"
+    },
+    "libc++_shared-Debug-arm64-v8a": {
+      "artifactName": "libc++_shared",
+      "abi": "arm64-v8a",
+      "output": "E:\\Android\\Project\\SuperJiPaiQi\\opencv\\src\\main\\jniLibs\\libs\\arm64-v8a\\libc++_shared.so"
+    },
+    "Dummy-Debug-arm64-v8a": {
+      "artifactName": "Dummy",
+      "buildCommand": "E:\\Android\\SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Android\\Project\\SuperJiPaiQi\\opencv\\.cxx\\cmake\\debug\\arm64-v8a --target Dummy",
+      "abi": "arm64-v8a",
+      "output": "E:\\Android\\Project\\SuperJiPaiQi\\opencv\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libDummy.so"
+    }
+  }
+}
